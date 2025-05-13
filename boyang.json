@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "passport.infoldgames.com",
+        "apm.infoldgames.com",
+        "similarweb.com",
+        "bijouxindiscrets.com",
+        "sosad.fun",
+        "llg01.com"
+      ],
+      "domain_regex": [
+        "x[0-9]+us-gate.infoldgames.com",
+        "x[0-9]+oversea-client.infoldgames.com"
+      ]
+    }
+  ]
+}
