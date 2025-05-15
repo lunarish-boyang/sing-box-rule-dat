@@ -1,0 +1,11 @@
+#DOMAIN-SUFFIX
+DOMAIN-SUFFIX,passport.infoldgames.com
+DOMAIN-SUFFIX,apm.infoldgames.com
+DOMAIN-SUFFIX,similarweb.com
+DOMAIN-SUFFIX,bijouxindiscrets.com
+DOMAIN-SUFFIX,sosad.fun
+DOMAIN-SUFFIX,llg01.com
+
+#DOMAIN-REGEX
+DOMAIN-REGEX,x[0-9]+us-gate.infoldgames.com
+DOMAIN-REGEX,x[0-9]+oversea-client.infoldgames.com
