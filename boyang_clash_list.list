@@ -7,6 +7,22 @@ DOMAIN-SUFFIX,sosad.fun
 DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,ipify.org
 
+#haitang
+DOMAIN-SUFFIX,longmabook.com
+DOMAIN-SUFFIX,longmabookcn.com
+DOMAIN-SUFFIX,lmbooks.com
+DOMAIN-SUFFIX,lmebooks.com
+DOMAIN-SUFFIX,haitbook.com
+DOMAIN-SUFFIX,htwhbook.com
+DOMAIN-SUFFIX,myhtebook.com
+DOMAIN-SUFFIX,lovehtbooks.com
+DOMAIN-SUFFIX,myhtebooks.com
+DOMAIN-SUFFIX,myhtlmebook.com
+DOMAIN-SUFFIX,urhtbooks.com
+DOMAIN-SUFFIX,newhtbook.com
+DOMAIN-SUFFIX,lvhtebook.com
+DOMAIN-SUFFIX,htlvbooks.com
+
 #DOMAIN-REGEX
 DOMAIN-REGEX,x[0-9]+us-gate.infoldgames.com
 DOMAIN-REGEX,x[0-9]+oversea-client.infoldgames.com
