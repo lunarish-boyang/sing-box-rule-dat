@@ -25,4 +25,6 @@ DOMAIN-SUFFIX,htlvbooks.com
 
 #DOMAIN-REGEX
 DOMAIN-REGEX,x[0-9]+us-gate.infoldgames.com
+DOMAIN-REGEX,x[0-9]+us-clickhouse.infoldgames.com
+DOMAIN-REGEX,x[0-9]+us-auth.infoldgames.com
 DOMAIN-REGEX,x[0-9]+oversea-client.infoldgames.com
